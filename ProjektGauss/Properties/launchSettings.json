@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ProjektGauss": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}

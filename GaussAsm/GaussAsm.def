@@ -1,0 +1,2 @@
+LIBRARY GaussAsm
+EXPORTS gauss_filter_asm

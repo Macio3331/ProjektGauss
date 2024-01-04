@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Creating library C:\Users\macio\source\repos\ProjektGauss\x64\Release\GaussCpp.lib and object C:\Users\macio\source\repos\ProjektGauss\x64\Release\GaussCpp.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GaussCpp.vcxproj -> C:\Users\macio\source\repos\ProjektGauss\x64\Release\GaussCpp.dll

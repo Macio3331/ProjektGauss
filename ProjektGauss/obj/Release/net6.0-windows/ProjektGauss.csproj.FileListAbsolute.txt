@@ -1,0 +1,17 @@
+C:\Users\macio\source\repos\ProjektGauss\ProjektGauss\bin\Release\net6.0-windows\ProjektGauss.exe
+C:\Users\macio\source\repos\ProjektGauss\ProjektGauss\bin\Release\net6.0-windows\ProjektGauss.deps.json
+C:\Users\macio\source\repos\ProjektGauss\ProjektGauss\bin\Release\net6.0-windows\ProjektGauss.runtimeconfig.json
+C:\Users\macio\source\repos\ProjektGauss\ProjektGauss\bin\Release\net6.0-windows\ProjektGauss.dll
+C:\Users\macio\source\repos\ProjektGauss\ProjektGauss\bin\Release\net6.0-windows\ProjektGauss.pdb
+C:\Users\macio\source\repos\ProjektGauss\ProjektGauss\obj\Release\net6.0-windows\ProjektGauss.csproj.AssemblyReference.cache
+C:\Users\macio\source\repos\ProjektGauss\ProjektGauss\obj\Release\net6.0-windows\ProjektGauss.ProjectGauss.resources
+C:\Users\macio\source\repos\ProjektGauss\ProjektGauss\obj\Release\net6.0-windows\ProjektGauss.csproj.GenerateResource.cache
+C:\Users\macio\source\repos\ProjektGauss\ProjektGauss\obj\Release\net6.0-windows\ProjektGauss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macio\source\repos\ProjektGauss\ProjektGauss\obj\Release\net6.0-windows\ProjektGauss.AssemblyInfoInputs.cache
+C:\Users\macio\source\repos\ProjektGauss\ProjektGauss\obj\Release\net6.0-windows\ProjektGauss.AssemblyInfo.cs
+C:\Users\macio\source\repos\ProjektGauss\ProjektGauss\obj\Release\net6.0-windows\ProjektGauss.csproj.CoreCompileInputs.cache
+C:\Users\macio\source\repos\ProjektGauss\ProjektGauss\obj\Release\net6.0-windows\ProjektGauss.dll
+C:\Users\macio\source\repos\ProjektGauss\ProjektGauss\obj\Release\net6.0-windows\refint\ProjektGauss.dll
+C:\Users\macio\source\repos\ProjektGauss\ProjektGauss\obj\Release\net6.0-windows\ProjektGauss.pdb
+C:\Users\macio\source\repos\ProjektGauss\ProjektGauss\obj\Release\net6.0-windows\ProjektGauss.genruntimeconfig.cache
+C:\Users\macio\source\repos\ProjektGauss\ProjektGauss\obj\Release\net6.0-windows\ref\ProjektGauss.dll
